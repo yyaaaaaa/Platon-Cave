@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f9dff03f78f729b409e1b0d153e81653
+  - enabled: 1
+    path: Assets/Scenes/ChestInside.unity
+    guid: e757b59830b756348ae11851177275ef
+  - enabled: 1
+    path: Assets/Scenes/Cutscene.unity
+    guid: 85addf0ac28004540a5fcc07110b570b
+  - enabled: 1
+    path: Assets/Scenes/MainRoom.unity
+    guid: 07130572eb646c44f97f1853898e8298
+  - enabled: 1
+    path: Assets/Scenes/Table.unity
+    guid: b261b55394fedc9468225c4f0ba061ce
+  - enabled: 1
+    path: Assets/Scenes/Cutscene3.unity
+    guid: 7925ee9a99eb9ab46932f7aa078f30c5
+  - enabled: 1
+    path: Assets/Scenes/CardGameMoon.unity
+    guid: c1b26bd293eb6284399eb2ba1235091a
+  - enabled: 1
+    path: Assets/Scenes/Basement.unity
+    guid: 004909351586d5043913a0b7432244da
+  - enabled: 1
+    path: Assets/Scenes/Chest.unity
+    guid: 990b2575519e7424a8e0dbd00dd0b24f
+  - enabled: 1
+    path: Assets/Scenes/Shelf.unity
+    guid: 03b2aa484633c60408ae615d9a27b343
+  - enabled: 1
+    path: Assets/Scenes/PongMiniGame.unity
+    guid: e606b7d8f6758194cb7367baec86da5c
+  - enabled: 1
+    path: Assets/Scenes/TableNear.unity
+    guid: 2c94761f112d2d64aa07e781b37a8d47
+  - enabled: 1
+    path: Assets/Scenes/NearShelf.unity
+    guid: 8881a157346cd014192d732887ee512b
+  - enabled: 1
+    path: Assets/Scenes/RoomLeft.unity
+    guid: 3cd99ee831307684693358db7d6115c8
+  - enabled: 1
+    path: Assets/Scenes/NearWindow.unity
+    guid: a60534bc982337041bc44a553f6dc45c
+  - enabled: 1
+    path: Assets/Scenes/CutScene2.unity
+    guid: a73153461bdf95348b1ef787cdda2a96
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 6ee0c49c2ac4e3946bcdb669b6db2bf2, type: 2}
